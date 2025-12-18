@@ -3,8 +3,31 @@
 
 <h3>Products</h3>
 
-<ul>
-    <li>Laptop</li>
-    <li>Mobile</li>
-    <li>Headphones</li>
-</ul>
+<div class="d-flex flex-wrap">
+    @foreach (var product in products)
+    {
+        <ProductCard Image="@product.Image"
+                     Name="@product.Name"
+                     Price="@product.Price"
+                     Likes="@product.Likes" />
+    }
+</div>
+
+@code {
+    public class Product
+    {
+        public string Name { get; set; }
+        public string Image { get; set; }
+        public double Price { get; set; }
+        public int Likes { get; set; }
+    }
+
+    List<Product> products = new()
+    {
+        new Product { Name="Laptop", Price=80000, Likes=50, Image="images/laptop.png"},
+        new Product { Name="Mobile", Price=50000, Likes=80, Image="images/mobile.png"},
+        new Product { Name="Tablet", Price=30000, Likes=40, Image="images/tablet.png"},
+        new Product { Name="Camera", Price=60000, Likes=35, Image="images/camera.png"},
+        new Product { Name="Headphone", Price=8000, Likes=90, Image="images/headphone.png"}
+    };
+}
