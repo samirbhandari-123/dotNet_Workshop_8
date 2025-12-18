@@ -2,8 +2,8 @@
 
 <h3>Calculator</h3>
 
-<input type="number" @bind="Num1" />
-<input type="number" @bind="Num2" />
+<input type="number" @bind="num1" />
+<input type="number" @bind="num2" />
 
 <div class="mt-2">
     <button @onclick="Add">+</button>
@@ -11,8 +11,6 @@
     <button @onclick="Multiply">*</button>
     <button @onclick="Divide">/</button>
 </div>
-
-<p>Result: @Result</p>
 
 <p>Result: @result</p>
 
@@ -24,4 +22,3 @@
     void Multiply() => result = num1 * num2;
     void Divide() => result = num2 != 0 ? num1 / num2 : 0;
 }
--3">Result: @Result</h4>
