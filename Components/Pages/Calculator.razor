@@ -13,3 +13,37 @@
 </div>
 
 <h4 class="mt-3">Result: @Result</h4>
+
+@code {
+    private double Num1 { get; set; }
+    private double Num2 { get; set; }
+    private double Result { get; set; }
+
+    private void Add()
+    {
+        Result = Num1 + Num2;
+    }
+
+    private void Subtract()
+    {
+        Result = Num1 - Num2;
+    }
+
+    private void Multiply()
+    {
+        Result = Num1 * Num2;
+    }
+
+    private void Divide()
+    {
+        if (Num2 != 0)
+        {
+            Result = Num1 / Num2;
+        }
+        else
+        {
+            // Optional: handle divide by zero
+            Result = 0;
+        }
+    }
+}
