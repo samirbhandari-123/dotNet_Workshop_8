@@ -1,9 +1,9 @@
 ﻿@page "/products"
 @layout ProductLayout
 
-<h3>Products</h3>
+<h3 class="text-center mb-4">Products</h3>
 
-<div class="d-flex flex-wrap">
+<div class="d-flex flex-wrap justify-content-center">
     @foreach (var product in products)
     {
         <ProductCard Image="@product.Image"
@@ -24,10 +24,10 @@
 
     List<Product> products = new()
     {
-        new Product { Name="Laptop", Price=80000, Likes=50, Image="images/laptop.png"},
-        new Product { Name="Mobile", Price=50000, Likes=80, Image="images/mobile.png"},
-        new Product { Name="Tablet", Price=30000, Likes=40, Image="images/tablet.png"},
-        new Product { Name="Camera", Price=60000, Likes=35, Image="images/camera.png"},
-        new Product { Name="Headphone", Price=8000, Likes=90, Image="images/headphone.png"}
+        new Product { Name="Laptop", Price=80000, Likes=45, Image="images/laptop.png" },
+        new Product { Name="Mobile", Price=50000, Likes=80, Image="images/mobile.png" },
+        new Product { Name="Tablet", Price=30000, Likes=35, Image="images/tablet.png" },
+        new Product { Name="Camera", Price=60000, Likes=25, Image="images/camera.png" },
+        new Product { Name="Headphone", Price=8000, Likes=90, Image="images/headphone.png" }
     };
 }
