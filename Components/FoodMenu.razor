@@ -1,14 +1,20 @@
-﻿<h3>Food Menu</h3>
+﻿@page "/foodmenu"
 
-<button @onclick="SortByName">Sort by Name</button>
-<button @onclick="SortByPrice">Sort by Price</button>
+<h3 class="text-center mb-3">Food Menu</h3>
 
-@foreach (var item in items)
-{
-    <ItemCard Name="@item.Name"
-              Ingredients="@item.Ingredients"
-              Price="@item.Price" />
-}
+<div class="text-center mb-3">
+    <button class="btn btn-success m-1" @onclick="SortByName">Sort by Name</button>
+    <button class="btn btn-success m-1" @onclick="SortByPrice">Sort by Price</button>
+</div>
+
+<div class="d-flex flex-wrap justify-content-center">
+    @foreach (var item in items)
+    {
+        <ItemCard Name="@item.Name"
+                  Ingredients="@item.Ingredients"
+                  Price="@item.Price" />
+    }
+</div>
 
 @code {
     public class Item
@@ -22,7 +28,8 @@
     {
         new Item { Name="Pizza", Ingredients="Cheese, Flour", Price=500 },
         new Item { Name="Burger", Ingredients="Bun, Patty", Price=300 },
-        new Item { Name="Pasta", Ingredients="Sauce, Noodles", Price=400 }
+        new Item { Name="Pasta", Ingredients="Sauce, Noodles", Price=400 },
+        new Item { Name="Sandwich", Ingredients="Bread, Veggies", Price=250 }
     };
 
     void SortByName()
