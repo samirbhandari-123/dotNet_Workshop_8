@@ -1,0 +1,46 @@
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Workshop 8.csproj.AssemblyReference.cache
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\rpswa.dswa.cache.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\rjimswa.dswa.cache.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\rjsmrazor.dswa.cache.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\rjsmcshtml.dswa.cache.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Calculator.razor.rz.scp.css
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Workshop 8.styles.css
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Workshop 8.bundle.scp.css
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\g7favilppt-e5tk7yf482.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\ao6rj8zk70-6gzpyzhau4.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\8jo32x19id-8inm30yfxf.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\t7h94wv4fo-dmthh9u8y1.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\oteq2mvkqw-x1wwlkvngt.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\romcxxf2gq-x1wwlkvngt.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json.cache
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.endpoints.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.Workshop 8.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.Workshop 8.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.Workshop 8.props
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.Workshop 8.props
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.Workshop 8.props
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.upToDateCheck.txt
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\g7favilppt-e5tk7yf482.br
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\ao6rj8zk70-6gzpyzhau4.br
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\8jo32x19id-8inm30yfxf.br
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\t7h94wv4fo-dmthh9u8y1.br
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\oteq2mvkqw-x1wwlkvngt.br
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\romcxxf2gq-x1wwlkvngt.br
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.endpoints.json
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Workshop 8.GeneratedMSBuildEditorConfig.editorconfig
