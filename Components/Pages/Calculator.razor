@@ -2,23 +2,14 @@
 
 <h3>Calculator</h3>
 
-<input type="number" @bind="num1" />
-<input type="number" @bind="num2" />
+<input type="number" @bind="Num1" class="form-control mb-2" placeholder="Enter first number" />
+<input type="number" @bind="Num2" class="form-control mb-2" placeholder="Enter second number" />
 
 <div class="mt-2">
-    <button @onclick="Add">+</button>
-    <button @onclick="Subtract">-</button>
-    <button @onclick="Multiply">*</button>
-    <button @onclick="Divide">/</button>
+    <button class="btn btn-primary m-1" @onclick="Add">+</button>
+    <button class="btn btn-primary m-1" @onclick="Subtract">-</button>
+    <button class="btn btn-primary m-1" @onclick="Multiply">*</button>
+    <button class="btn btn-primary m-1" @onclick="Divide">/</button>
 </div>
 
-<p>Result: @result</p>
-
-@code {
-    double num1, num2, result;
-
-    void Add() => result = num1 + num2;
-    void Subtract() => result = num1 - num2;
-    void Multiply() => result = num1 * num2;
-    void Divide() => result = num2 != 0 ? num1 / num2 : 0;
-}
+<h4 class="mt-3">Result: @Result</h4>
