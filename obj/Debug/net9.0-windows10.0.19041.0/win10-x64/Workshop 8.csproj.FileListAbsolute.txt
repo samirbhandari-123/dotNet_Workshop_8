@@ -44,3 +44,7 @@ D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.
 D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
 D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Workshop 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\oteq2mvkqw-nvyssn82gz.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\romcxxf2gq-nvyssn82gz.gz
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\oteq2mvkqw-nvyssn82gz.br
+D:\Third Year\Application Development\Week 8\Workshop\Workshop 8\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\romcxxf2gq-nvyssn82gz.br

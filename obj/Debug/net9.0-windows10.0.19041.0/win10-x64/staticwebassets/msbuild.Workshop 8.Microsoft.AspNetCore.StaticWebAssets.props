@@ -92,12 +92,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>x1wwlkvngt</Fingerprint>
-      <Integrity>RR+FP6dvpB5XEiyjlFHQpZGPccJHe0KYADcJ5sIQmCY=</Integrity>
+      <Fingerprint>nvyssn82gz</Fingerprint>
+      <Integrity>k/cXk9VNWUB4/287sKK5ehUzpQH8ATTHAKQ9l3JY1n8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>6251</FileLength>
-      <LastWriteTime>Thu, 18 Dec 2025 06:18:57 GMT</LastWriteTime>
+      <FileLength>6001</FileLength>
+      <LastWriteTime>Thu, 18 Dec 2025 06:37:32 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Workshop 8.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
